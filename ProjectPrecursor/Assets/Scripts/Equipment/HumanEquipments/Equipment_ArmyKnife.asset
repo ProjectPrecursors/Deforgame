@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18c22230bfca23c468cd449828c1529c, type: 3}
+  m_Name: Equipment_ArmyKnife
+  m_EditorClassIdentifier: 
+  eName: Army Knife
+  equipSlot: 4
+  currStatus: 0
+  isType: 0
+  ammoCount: 999
+  cooldownCount: 0.5
+  behaviourType: 2
+  subbehaviourType: 0
+  sprite: {fileID: 21300000, guid: bfe00e821fa36e24bb08c2719eaa6063, type: 3}
+  fuckme: {fileID: 7400000, guid: 4067a1661579e354d8d1a71ba1aa1ba7, type: 2}
+  cooldownLeft: 0

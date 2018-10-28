@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfKeybindClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KeybindClass controlName="Left" keyCodeValue="A" />
+  <KeybindClass controlName="Right" keyCodeValue="D" />
+  <KeybindClass controlName="Up" keyCodeValue="W" />
+  <KeybindClass controlName="Down" keyCodeValue="S" />
+  <KeybindClass controlName="Jump" keyCodeValue="Space" />
+  <KeybindClass controlName="Range" keyCodeValue="Mouse0" />
+  <KeybindClass controlName="Melee" keyCodeValue="Mouse1" />
+  <KeybindClass controlName="Run" keyCodeValue="LeftShift" />
+  <KeybindClass controlName="Crouch" keyCodeValue="LeftControl" />
+  <KeybindClass controlName="Map" keyCodeValue="Tab" />
+  <KeybindClass controlName="Inventory Left" keyCodeValue="Q" />
+  <KeybindClass controlName="Inventory Right" keyCodeValue="E" />
+  <KeybindClass controlName="Equip Selected" keyCodeValue="R" />
+  <KeybindClass controlName="Drop Selected" keyCodeValue="T" />
+  <KeybindClass controlName="" keyCodeValue="None" />
+  <KeybindClass controlName="" keyCodeValue="None" />
+  <KeybindClass controlName="" keyCodeValue="None" />
+  <KeybindClass controlName="" keyCodeValue="None" />
+  <KeybindClass controlName="" keyCodeValue="None" />
+  <KeybindClass controlName="" keyCodeValue="None" />
+</ArrayOfKeybindClass>
